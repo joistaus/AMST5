@@ -7,4 +7,9 @@
         <item name="colorAccent">@color/teal_200</item>
         <!-- Customize your theme here. -->
     </style>
+    
+    <style name="MenuLabelStyle">
+        <item name="android:background">@drawable/bg_menu_label</item>
+        <item name="android:textColor">#FFF</item>
+    </style>
 </resources>
